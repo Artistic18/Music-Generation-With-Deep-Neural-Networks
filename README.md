@@ -22,8 +22,8 @@ python generate.py
 ```
 
 ## Final Generated Music
-1.https://soundcloud.com/hrishit-biswas/test1
-2.https://soundcloud.com/hrishit-biswas/test2
+* https://soundcloud.com/hrishit-biswas/test1
+* https://soundcloud.com/hrishit-biswas/test2
 
 ## References
 https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5
